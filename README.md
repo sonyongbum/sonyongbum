@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Maany SON
+- 👋 Hi, I’m Manny SON
 - 👀 I’m interested in Digital Forensics
 - 🌱 I’m currently learning Linux, windows artifact... etc...
 - 💞️ I’m looking to collaborate on 
